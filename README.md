@@ -40,7 +40,7 @@ Você pode visualizar a descrição do desafio deste projeto através [DESSE LIN
 
 ## Expert
 
-<p><a href="www.linkedin.com/in/kassia-moura-10775aa8">LinkedIn</a>&nbsp;|&nbsp;
+<p><a href="https://www.linkedin.com/in/kassia-moura-10775aa8/">LinkedIn</a>&nbsp;|&nbsp;
     <a href="https://www.instagram.com/kassia.amour/">Instagram</a>&nbsp;|&nbsp;</p>
 
 ⌨️ com 💜 por [Kássia Almeida Moura](https://github.com/Kassia08)
